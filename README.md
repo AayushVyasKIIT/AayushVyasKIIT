@@ -1,5 +1,6 @@
 ## Hello there! Welcome to my world 🌏.
-<img src = "code-coding.gif" width=300 height=200/>
+<img src = "athena-logo.png" width=100 height=100/><img src = "lrc.png" width=100 height=100/> &nbsp; <img src = "ezgif.com-gif-maker.gif"  height=100/>
+
 Here i share my builds and try to contribute to the community as much as I can 🤓.
 <br>
 I'll encourage you to check my projects below, and reach out to me if you need any kind of help📶.
