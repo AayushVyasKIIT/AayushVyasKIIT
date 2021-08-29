@@ -1,4 +1,5 @@
-## Hello! Welcome to my world🌏.
+## Hello! Welcome to my world 🌏.
+<img style = "display: block;margin-left: auto;margin-right: auto;width: 50%;" src="hello_world.gif" width="300px" height="200px" />
 Here i share my builds and try to contribute to the community as much as I can 🤓.
 I'll encourage you to check my projects below, and reach out to me if you need any kind of help📶.
 I code for solving real-world problems, social causes and providing softwares-as-a-service.
