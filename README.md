@@ -1,7 +1,9 @@
-## Hello! Welcome to my world 🌏.
-<img style = "display: block;margin-left: auto;margin-right: auto;width: 50%;" src="hello_world.gif" width="300px" height="200px" />
+## Hello there! Welcome to my world 🌏.
+<img src = "code-coding.gif" width=300 height=200/>
 Here i share my builds and try to contribute to the community as much as I can 🤓.
+<br>
 I'll encourage you to check my projects below, and reach out to me if you need any kind of help📶.
+<br>
 I code for solving real-world problems, social causes and providing softwares-as-a-service.
 
  - 🔭 I can come to use in python,cpp related fields.
