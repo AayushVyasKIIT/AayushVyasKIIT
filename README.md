@@ -1,8 +1,11 @@
-## Hello there! I'm Aayush. Incoming SDE @Publicis Sapient, Prev Research Intern @Samsung R&D. It's nice to see you here.
-<div>
+## Hello there! I'm Aayush. Incoming SDE @Publicis Sapient , Prev Research Intern @Samsung R&D. It's nice to see you here.
+<div>  
+  <img src ="https://www.publicissapient.com/content/dam/ps-rebrand/brand/ps-logo-NEW.svg" widht = 100 height = 100>
 <a href = "https://www.credly.com/badges/2f86b196-6e00-4054-81b7-168fb54275cd/public_url"> <img src = "https://images.credly.com/size/340x340/images/ead0ef07-6071-4c96-a79f-27bb32c4be93/AWS-Academy-Graduate-Badge-Foundational.png" width=100 height=100/>
 </a>
-  <img src = "athena-logo.png" width=100 height=100/><img src = "lrc.png" width=100 height=100/> &nbsp; <img src = "ezgif.com-gif-maker.gif"  height=100/>
+  <div>
+    <img src = "athena-logo.png" width=100 height=100/><img src = "lrc.png" width=100 height=100/> &nbsp; <img src = "ezgif.com-gif-maker.gif"  height=100/>
+  </div>
 </div>
 
 Here I share my builds and try to contribute to the community as much as I can 🤓.
